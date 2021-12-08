@@ -1,0 +1,17 @@
+{
+  "mongoURI": "mongodb://localhost:27017/leave",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000,
+  "SMTP_HOST": "email-smtp.ap-south-1.amazonaws.com",
+  "SMTP_PORT": 465 ,
+  "SMTP_USER": "AKIA6NTG4CPIXPZODFUT",
+  "SMTP_PASSWORD": "BPjxidCNpUP3ncyflXR6qTUUJ1thaDShf8K5q3BhFHkl",
+  "AWS_ID": "AKIA6NTG4CPITHW7WQ6Y",
+  "AWS_SECRET": "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",
+  "AWS_BUCKET_NAME": "speak-app-stage",
+  "AWS_REGION": "ap-south-1",
+  "Site_url" : "http://ec2-65-2-29-125.ap-south-1.compute.amazonaws.com/auth/",
+  "SNS_AWS_ID": "AKIA6NTG4CPIZO77ZIEO",
+  "SNS_AWS_SECRET": "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"
+ 
+}
